@@ -59,3 +59,6 @@
                                     ...,:;,'';cc;,,,'...,c,..';oOKKK00kd;                           
                                          .',;;,,,;::::;;;:;;cloolc;;,..
 ```
+## Credits
+Image from some available stickers on [ebay](https://www.ebay.com/itm/174477960324)
+The conversion from the image to ASCII art was done with [https://www.ascii-art-generator.org/](https://www.ascii-art-generator.org/)
